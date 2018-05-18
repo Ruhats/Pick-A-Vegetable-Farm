@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526607811 source:c:\users\ruhat\desktop\311 pattern prototypes\pick-a-vegetable_farm\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+
